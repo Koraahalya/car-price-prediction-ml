@@ -39,5 +39,5 @@ Run cells step-by-step (data and code are both included).
 
 Feel free to adjust features or model parameters for deeper analysis!
 
-Author
+**Author**            
 Created by Kora Ahalya
